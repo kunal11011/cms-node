@@ -1,6 +1,6 @@
 # Company Management System
 
-This project is a comprehensive Company Management System (CMS) built using TypeScript and Node.js. It provides features for user authentication, content creation, and management, aiming to deliver a robust and scalable solution for managing digital content.
+This project is a comprehensive Company Management System (CMS) built using TypeScript and Node.js. It provides features for user authentication, company creation, and management, aiming to deliver a robust and scalable solution for managing a company employees and get a tree chart also.
 
 ## Features
 
